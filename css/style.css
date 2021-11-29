@@ -9,3 +9,10 @@ h2 {
     color: red;
     font-style: oblique;
 }
+p {
+    background-color: silver;
+    color: black;
+}
+a {
+    color: brown;
+}
