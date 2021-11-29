@@ -16,3 +16,9 @@ p {
 a {
     color: brown;
 }
+ol {
+    background-color: black;
+}
+li {
+    color: silver;
+}
